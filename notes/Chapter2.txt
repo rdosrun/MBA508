@@ -1,0 +1,44 @@
+CHAPTER 2: Financial Statements, Taxes, and Cash Flow
+    Learning Objectives:
+        * Differentiate between acounting value and market value
+        * Distinguish between income and cash flow
+        * Explain the difference between average and marginal tax rates
+        * Determine a firm's cash flow from its financial statements
+
+    2.1 The Balance Sheet
+        * What is the balance sheet identity?
+           * Assets = Liabilities + Equity
+        * What is liquidity? Why is it important?
+           * Liquidity is the speed and easy at which assets can be converted into cash
+        * What do we mean by financial leverage?
+            * Financial leverage is the ratio of total liabilities to total assets
+        * Explain the difference between accoutning value and market value. Which is more important to the financial manager? why?
+            * Accounting value is the value of assets at the date of aqusition the market value is the value of assets during current period.
+            * Financial managers choose to use market value because it is the most important value to investors and more accurately dipicts the actual value of the firm.
+    2.2 The Income Statement
+        * What is the income statement equation?
+            * Revenue - Expenses = Net Income
+        * What are the three things to keep in mind when looking at an income statement?
+            * GAAP (Generally accepted accounting Principles)
+            * cash verus non-cash items?
+            * cash is money going in our out of the business. while non cash is things like depreciation
+            * time and costs
+                * the time horizon of incomes and debts the company has. and it's ability to maintain proper levels of liquidity throughout.
+
+        * Why is accounting income not the same as cash flow?
+            * with in GAAP you can have practices such as earnings management. where as cash flow is more representative of what is actually happening day to day.
+    2.3 Taxes
+        * What is the difference between marginal and average tax rates?
+            * average is the amount of money you made divied by the amount of money you paid in taxes
+            * marginal is the percentage you would pay on any additional money you make
+    2.4 Cash Flow
+        * What is the cash flow identity?
+            * Cash flow from assets = Cash flow from creditors + Cash flow to stockholders
+        * What are the components of operating cash flow?
+            * EBIT + Depreciation - Taxes
+        * Why is interest paid not a component of operating cash flow?
+            * because interest is not depenedent on the operating of the company.
+
+
+
+
